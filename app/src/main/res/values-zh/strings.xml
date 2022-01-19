@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lua加密器</string>
+    <string name="enc_load_file">載入腳本</string>
+    <string name="enc_browse_output">選擇輸出資料夾</string>
+    <string name="enc_output_file">輸出資料夾</string>
+    <string name="enc_input_password">密碼</string>
+    <string name="enc_input_script">在此輸入腳本</string>
+    <string name="enc_encrypt">加密</string>
+    <string name="toast_not_supported">暫不支援該功能</string>
+    <string name="toast_password_empty">密碼不可為空</string>
+    <string name="toast_script_empty">腳本不可為空</string>
+</resources>

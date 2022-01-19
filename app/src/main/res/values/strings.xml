@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lua Encryptor</string>
+    <string name="enc_load_file">Load File</string>
+    <string name="enc_browse_output">Browse Output Folder</string>
+    <string name="enc_output_file">Output File</string>
+    <string name="enc_input_password">Password</string>
+    <string name="enc_input_script">Input your script here</string>
+    <string name="enc_encrypt">Encrypt</string>
+    <string name="toast_not_supported">Function is currently not supported</string>
+    <string name="toast_password_empty">Password Cannot be empty</string>
+    <string name="toast_script_empty">Script Cannot be empty</string>
+</resources>
